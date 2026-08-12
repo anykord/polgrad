@@ -1,0 +1,20 @@
+ПЛОСКАЯ СБОРКА — БЕЗ ПАПОК
+
+Внутри ZIP нет ни одной папки. Все HTML, изображения и технические файлы лежат в корне.
+
+Загрузка:
+1. Распакуйте архив.
+2. Загрузите все файлы в корень GitHub-репозитория.
+3. Commit.
+4. Vercel автоматически задеплоит изменения.
+
+Чистые URL:
+/
+/szlachta-ruska
+/rosja-narod-czy-imperium
+/polska-i-niemcy
+/wolyn-rana-sojusz-polski-i-ukrainy
+/polacy-i-ukraincy
+/rosjanie-ukraincy-bialorusini
+
+Расширение .html в браузере не требуется благодаря cleanUrls в vercel.json.
